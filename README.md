@@ -15,7 +15,7 @@ Installable Python kits, and information about using Python, are available at [p
 📦Install
 pip automatic download & update
 -------
-This segment of code has already used several third-party libraries, but there is one more, the tqdm library, which is used to display progress bars within loops. If you don't have it installed on your system, you'll need to use pip to install it.
+This segment of code has already used several third-party libraries, but there is one more, the smtplib library, which is used to display progress bars within loops. If you don't have it installed on your system, you'll need to use pip to install it.
 ```
 pip install secure-smtplib
 ```
